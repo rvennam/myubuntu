@@ -5,12 +5,12 @@ An Ubuntu Docker image with the following:
 - kubectl
 - helm
 - git
-- sdk
 - java
 - git
+- istio
 
 
-Docker: 
+Docker:
 ```
 docker run --name ubuntu_bash --rm -i -t rvennam/myubuntu bash
 ```
